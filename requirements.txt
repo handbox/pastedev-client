@@ -1,1 +1,3 @@
 pbr>=1.8
+request
+/home/snovikov/venvs/psdev-venv/bin/python2.7
